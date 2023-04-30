@@ -5,24 +5,31 @@ OverWatch is an accident and emergency detection app that uses the smartphone's 
 ## Features
 
 - Detects accidents and emergencies using the phone's sensors
+- Allows manual sending of emergency alerts
 - Sends emergency alerts to designated contacts and emergency services
 - Simple and user-friendly interface
 
 ## Getting Started
 
-To use OverWatch, simply download and install the app from the App Store or Google Play Store.
 
-Once installed, follow these steps:
+To use OverWatch,
+1. Open Android Studios and create a new project with the name "OverWatch"
+2. Download the codes from here and add them to your android studio project.
+3. Download all the files and replace them with their respective files in your android studio Overwatch files.
+4. Copy the LoginRegister folder and paste it in htdocs of XAMMP this is the path ( C:\xampp\htdocs)
+5. Make sure your change the IP address of the various URLs in the code to your Computers IP address.
+6. Open Web Server (XAMMP) control panel and start both MySQL and Apache.
+7. Your can now run OverWatch on a virtual device, To run on a physical device, both the device and your computer must be on the same network
+8. Don't forget to allow SMS and location permission in your physical or virtual devices settings
 
-1. Open the app and create a user profile with your name, phone number, and emergency contacts.
-2. Allow the app to access your phone's sensors.
-3. Keep the app running in the background.
-4. If an accident or emergency is detected, the app will send an emergency alert to your designated contacts and emergency services.
+
 
 ## Requirements
 
 - Android 6.0 or later
 - Internet connection (for location)
+- Web Server System (XAMMP)
+
 
 ## Contributing
 
