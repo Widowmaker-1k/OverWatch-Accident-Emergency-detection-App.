@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OverWatch</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="logo">logo</string>
+    <string name="todo">TODO</string>
+    <string name="hello_welcome_to_overwatch">Hello, Welcome to Overwatch</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="todot">TODO</string>
+    <string name="forrr">TODO</string>
+    <string name="your_current_dp">Your Current Dp</string>
+    <string name="back">Back</string>
+    <string name="loginhere">Already have an account? Login</string>
+    <string name="signuphere">Create a new account? SignUp</string>
+    <string name="your_id">Your ID</string>
+    <string name="sign_in_with_username_and_password">Sign In with Username and Password</string>
+    <string name="view_photo">View Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+</resources>
